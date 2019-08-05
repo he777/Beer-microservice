@@ -1,5 +1,5 @@
 package ee.helpit.beermicroservice.web.model;
 
 public enum BeerStyleEnum {
-    LAGER, PISNER, PORTER, ALE, IPA, SAISON
+    LAGER, PILSNER, PORTER, ALE, IPA, SAISON
 }
